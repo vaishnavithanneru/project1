@@ -129,7 +129,7 @@ your-repo-name/
 ![Screenshot 2025-06-18 122308](https://github.com/user-attachments/assets/9557b5f4-898a-4307-a981-f5a8ebafe910)
 
 ##After adding the tasks
-![Screenshot 2025-06-18 163828](https://github.com/user-attachments/assets/ed0dfe91-cce6-4571-b43e-25e5c859aa3b)
+
 
 ##The database output is 
 ![Screenshot 2025-06-18 212146](https://github.com/user-attachments/assets/b9af38d7-6b2c-4604-b324-db4ab3810c6f)
